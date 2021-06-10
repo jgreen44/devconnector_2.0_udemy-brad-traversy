@@ -353,3 +353,10 @@ Brad Traversy
 ### License
 
 This project is licensed under the MIT License
+
+### Video Command lines
+
+```bash
+$ npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose axios
+$ npm i -D nodemon concurrently
+```
