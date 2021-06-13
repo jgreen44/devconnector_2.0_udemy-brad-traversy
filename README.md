@@ -357,6 +357,14 @@ This project is licensed under the MIT License
 ### Video Command lines
 
 ```bash
+Backend (/)
 $ npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose axios
 $ npm i -D nodemon concurrently
+$ npx create-react-app client
+
+Frontend (/client)
+$ npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment
+
+Live Templates (IntelliJ)
+rsc - Functional Component
 ```
