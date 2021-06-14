@@ -364,6 +364,7 @@ $ npx create-react-app client
 
 Frontend (/client)
 $ npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment
+$ npm i uuid
 
 Live Templates (IntelliJ)
 rsc - Functional Component
